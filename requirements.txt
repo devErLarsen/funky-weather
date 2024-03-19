@@ -1,7 +1,10 @@
+altgraph==0.17.4
 certifi==2024.2.2
 charset-normalizer==3.3.2
+colorama==0.4.6
 DateTime==5.4
 idna==3.6
+packaging==24.0
 pytz==2024.1
 requests==2.31.0
 urllib3==2.2.1
